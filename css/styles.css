@@ -1,3 +1,15 @@
+/*
+23415082600001
+Num:02
+Sara Noemi Aguilar Sotelo
+*/
+body {
+	font-family: Arial;
+	background: linear-gradient(135deg- #f5f5f5, #d7d7d7);
+	color: #333;
+	padding: 20px;
+}
+
 /*Reset simple*/
 * { box-sizing: border-box;margin: 0; padding: 0; font font-family: Arial, sans-serif; }
 
@@ -56,4 +68,5 @@ header h1 { margin-bottom: 20px; }
 	0% { background: #ffd166; }
 	50% { background: #06d6a0; }
 	100% { background: #ffd166; }
+
 }
